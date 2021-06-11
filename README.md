@@ -1,6 +1,10 @@
 # 8-Puzzle
 8-puzzle is a combination puzzle that challenges a player to slide pieces along certain routes to establish a certain end-configuration (goal-state). The 8-puzzle is a smaller version of 15-puzzle. It consists of 3x3 area with tiles numbered 1 to 8 and one blank space where tiles can be slid to solve the puzzle or attain the goal state. Similarly in 15-puzzle there is 4x4 tile area with 15 numbered tiles and one blank
 
+# Feature Selection with Nearest Neighbor
+1) Forward Selection
+2) Backward Elimination
+
 # Methods
 • “main” takes the input choices.
 •	“generalSearch” this is where the most suitable puzzle state is chosen and compared to attain goal state. 
